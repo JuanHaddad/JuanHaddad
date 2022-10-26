@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ##  oii, querem ver meus projetos?
 
 #### 🌱 Estou atualmente cursando Engenharia da Computação no Centro Universitário Fundação Santo André (FSA).
-#### 🧾 Atualmente estudando e trabalhando com Python e SQL.
+#### 🧾 Tive contato com o básico em Linux, HTML e CSS, C#, Java, e principalmente C na faculdade.
+#### 🔭 Atualmente estudando e trabalhando com APIs em Python, SQL, CouchDB, Git.
 
 ##
 
@@ -34,20 +35,22 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="https://github.com/taylorburgues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorburgues&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taylorburgues&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/JuanHaddad">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanhaddad&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanhaddad&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="CouchDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/couchdb/couchdb-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="VScode" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
  
 </div>
@@ -56,7 +59,7 @@ Here are some ideas to get you started:
   
 <div align="center">
   <h3>visitor counter</h3> 
-   <img src="https://profile-counter.glitch.me/taylorburgues/count.svg" alt="Visitor" title="Visitor"/></br>
+   <img src="https://profile-counter.glitch.me/juanhaddad/count.svg" alt="Visitor" title="Visitor"/></br>
    <img src="https://media.giphy.com/media/5UqWIbfRyfTjaRulMO/giphy.gif" alt="Black And White Error" width="100" height="100" frameBorder="0" class="giphy-embed">
   
  </div>
