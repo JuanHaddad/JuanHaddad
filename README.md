@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ##  oii, querem ver meus projetos?
 
 #### 🌱 Estou atualmente cursando Engenharia da Computação no Centro Universitário Fundação Santo André (FSA).
-#### 🧾 Tive contato com o básico em Linux, HTML e CSS, C#, Java, e principalmente C na faculdade.
-#### 🔭 Atualmente estudando e trabalhando com APIs em Python, SQL, CouchDB, Git.
+#### 📝 Estudando e praticando HTML/CSS e JavaScript.
+#### 🔭 Atualmente trabalhando com APIs em Python, SQL, CouchDB, Git.
 
 ##
 
