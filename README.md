@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 ##  oii, querem ver meus projetos?
 
 #### 🌱 Estou atualmente cursando Engenharia da Computação no Centro Universitário Fundação Santo André (FSA).
-#### 📝 Estudando e praticando HTML/CSS e JavaScript.
-#### 🔭 Atualmente trabalhando com APIs em Python, SQL, CouchDB, Git.
+#### 📝 Estudando e praticando Angular.
+#### 🔭 Atualmente trabalhando com APIs em Python e desenvolvendo o Frontend com HTML/CSS, Javascript e Angular.
+#### 🧠 Conhecimento em Docker, SQL, CouchDB e sempre procurando conhecimento!
 
 ##
 
@@ -45,13 +46,11 @@ Here are some ideas to get you started:
   <img align="center" alt="CouchDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/couchdb/couchdb-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="VScode" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
  
 </div>
   
