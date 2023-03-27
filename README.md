@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### 🌱 Cursando Engenharia da Computação no Centro Universitário Fundação Santo André (FSA).
 #### 📝 Estudando e praticando Angular.
 #### 🔭 Atualmente trabalhando com APIs em Python e desenvolvendo o Frontend com HTML/CSS, Javascript e Angular.
-#### 🧠 Experiência com Docker, SQL, CouchDB e com muita fome de conhecimento!
+#### 🧠 Experiência com Docker, SQL, CouchDB e muita fome de conhecimento!
 
 ##
 
