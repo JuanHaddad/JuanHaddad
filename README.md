@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ##  oii, querem ver meus projetos?
 
 #### 🌱 Cursando Engenharia da Computação no Centro Universitário Fundação Santo André (FSA).
-#### 📝 Estudando e praticando Angular.
-#### 🔭 Atualmente trabalhando com APIs em Python e desenvolvendo o Frontend com HTML/CSS, Javascript e Angular.
+#### 📝 Estudando e praticando Angular, APIs, Python e desenvolvendo o Frontend com HTML/CSS, Javascript e Angular.
+#### 🔭 Atualmente estagiando em busca da efetivação à Analista de TI!
 #### 🧠 Experiência com Docker, SQL, CouchDB e muita fome de conhecimento!
 
 ##
