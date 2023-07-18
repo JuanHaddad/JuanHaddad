@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ##  oii, querem ver meus projetos?
 
-#### 🌱 Cursando Engenharia da Computação no Centro Universitário Fundação Santo André (FSA).
-#### 📝 Estudando e praticando Frontend com HTML/CSS, Javascript e Angular.
+#### 🌱 Cursando Engenharia da Computação no Centro Universitário Fundação Santo André (FSA) e com muita fome de conhecimento!
+#### 📝 Estudando e praticando Frontend com HTML/CSS, Javascript e Bootstrap.
 #### 🔭 Atualmente estagiando em busca da efetivação à Analista de TI!
-#### 🧠 Experiência com Python, Angular, APIs, Docker, SQL, CouchDB e muita fome de conhecimento!
+#### 🧠 Experiência com Python, Angular, APIs, Docker, SQL, CouchDB.
 
 ##
 
