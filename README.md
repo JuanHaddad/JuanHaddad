@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ##  oii, querem ver meus projetos?
 
-#### 🌱 Cursando Engenharia da Computação no Centro Universitário Fundação Santo André (FSA) e com muita fome de conhecimento!
-#### 📝 Estudando e praticando Frontend com HTML/CSS, Javascript e Bootstrap.
-#### 🔭 Atualmente estagiando em busca da efetivação à Analista de TI!
-#### 🧠 Experiência com Python, Angular, APIs, Docker, SQL, CouchDB.
+#### 🌱 Cursando Engenharia da Computação no Centro Educacional da Fundação Salvador Arena (CEFSA) e com muita fome de conhecimento!
+#### 📝 Estudando e praticando as tecnologias do Typescript (React, NestJs).
+#### 🔭 Atualmente estagiando no Itaú Unibanco em busca da efetivação à Analista de CRM!
+#### 🧠 Experiência com Python, Angular, APIs, Docker, SQL, CouchDB, HTML/CSS, Javascript, Bootstrap.
 
 ##
 
